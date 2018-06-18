@@ -1,5 +1,5 @@
 ## Personal Website
 
-Visit at [llenk.github.io/ellen/](https://llenk.github.io/ellen/).
+Visit at [llenk.github.io/](https://llenk.github.io/).
 
 Used [privy template](https://templated.co/privy).
